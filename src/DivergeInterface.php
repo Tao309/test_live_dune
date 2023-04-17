@@ -1,6 +1,9 @@
 <?php
 
-interface DivergeInterface {
+namespace Val\TestLiveDune;
+
+interface DivergeInterface
+{
     /**
     * Отклонение цены не должно быть больше допустимого значения (%)
     *
